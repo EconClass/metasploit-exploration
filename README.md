@@ -1,4 +1,4 @@
-# Exploring Exploits
+# [Exploring Exploits](https://econclass.github.io/metasploit-exploration/)
 
 The purpose of this document is to familiarize new developers, such as myself, with some of the exploits detailed in the Metasploit penetration testing platform. Through this exploration, the hope is to gain insight into some of the attack vectors that are taken into account in the software industry. Ultimately, I hope to make the process of exploring web security as beginner friendly as possible. However, I do acknowledge that there are certain aspects of security that are inevitably heavy on technical details.
 
