@@ -1,5 +1,3 @@
-# Table of Contents
-
 - [Home](README.md)
 
 - Installation and Setup
