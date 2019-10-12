@@ -11,9 +11,18 @@ That said this walkthrough will be using the following technologies:
 | Tool | Description|
 |---|---|
 | [Metasploit](metasploit.help.rapid7.com/docs/getting-started) | This lets us find, exploit, and validate vulnerabilities from our Command Line |
-| [Metasploitable](https://sourceforge.net/projects/metasploitable/) | This is an intentionally vulnerable Virtual Machine for us to test out exploits on |
+| [Metasploitable](github.com/rapid7/metasploitable3/) | This is an intentionally vulnerable Virtual Machine for us to test out exploits on |
 | [VirtualBox](virtualbox.org) | This is what we will be using to host our metasploitable environment from our own computer |
 
-## The Exploits
+**NOTE:* The Metasploitable Virtual Machine requires that you install [Packer](www.packer.io/intro/getting-started/install.html) and [Vagrant](https://www.vagrantup.com/docs/installation/) to install and build the Metasploitable.
+I recommend installing these dependencies through your Operating System's designated package manager such as `brew` for OSx or `apt` for Ubuntu based Linux distributions.
 
+## Table of Contents
 
+- Installation and Setup
+  - [Metasploit](./wip.md)
+  - [Metasploitable](./wip.md)
+  - [VirtualBox](./wip.md)
+- Useful Modules
+  - [Port Scanner](./portscanner.md)
+- Exploit Modules
