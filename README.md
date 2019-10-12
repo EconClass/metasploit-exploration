@@ -16,13 +16,3 @@ That said this walkthrough will be using the following technologies:
 
 **NOTE:* The Metasploitable Virtual Machine requires that you install [Packer](www.packer.io/intro/getting-started/install.html) and [Vagrant](https://www.vagrantup.com/docs/installation/) to install and build the Metasploitable.
 I recommend installing these dependencies through your Operating System's designated package manager such as `brew` for OSx or `apt` for Ubuntu based Linux distributions.
-
-## Table of Contents
-
-- Installation and Setup
-  - [Metasploit](./wip.md)
-  - [Metasploitable](./wip.md)
-  - [VirtualBox](./wip.md)
-- Useful Modules
-  - [Port Scanner](./portscanner.md)
-- Exploit Modules
