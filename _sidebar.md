@@ -1,5 +1,3 @@
-- [Home](README.md)
-
 - Installation and Setup
   - [Metasploit](wip.md)
   - [Metasploitable](wip.md)
