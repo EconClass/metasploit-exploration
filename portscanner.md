@@ -67,4 +67,14 @@ Looks like our Metasploitable has several exposed tcp ports for us to exploit! L
 
 `192.168.0.33:         - 192.168.0.33:[21] - TCP OPEN`
 
-The number between the brackets is our exposed port number. I wonder what we could do with this?
+The number between the brackets is our exposed port number. Hmm... I wonder what we could do with this?
+
+In the meantime that wraps it up for this module. When we're done with a module and want to go back to the main msfconsole we simply run the `back` command.
+
+Opposite to the [beginning](#tcp-port-scanner) of this section the indicator should switch from:
+
+`msf5 auxiliary(scanner/portscan/tcp) >`
+
+To:
+
+`msf5 >`
